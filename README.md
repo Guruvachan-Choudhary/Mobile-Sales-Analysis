@@ -13,9 +13,9 @@ Time-based Trends – Sales trends by month and day of the week.
 
 🛠 Tools & Technologies
 
-Power BI – For data visualization and dashboard creation.
-DAX (Data Analysis Expressions) – For creating custom calculations and measures.
-Power Query – For data transformation and preparation.
+** Power BI – For data visualization and dashboard creation.
+** DAX (Data Analysis Expressions) – For creating custom calculations and measures.
+** Power Query – For data transformation and preparation.
 
 📈 Insights & Key Findings
 
