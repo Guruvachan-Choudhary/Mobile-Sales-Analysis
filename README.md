@@ -4,12 +4,12 @@ This project is a Mobile Sales Dashboard built using Power BI to analyze sales p
 
 🚀 Features
 
-Total Sales Overview – Displays key metrics like total sales, quantity, and transactions.
-Sales by City – Interactive map to visualize sales distribution across different locations.
-Sales by Mobile Model & Brand – Breakdown of sales based on popular mobile models and brands.
-Customer Ratings – Visualization of customer satisfaction ratings.
-Transaction Analysis – Insights into payment methods used for purchases.
-Time-based Trends – Sales trends by month and day of the week.
+* Total Sales Overview – Displays key metrics like total sales, quantity, and transactions.
+* Sales by City – Interactive map to visualize sales distribution across different locations.
+* Sales by Mobile Model & Brand – Breakdown of sales based on popular mobile models and brands.
+* Customer Ratings – Visualization of customer satisfaction ratings.
+* Transaction Analysis – Insights into payment methods used for purchases.
+* Time-based Trends – Sales trends by month and day of the week.
 
 🛠 Tools & Technologies
 
